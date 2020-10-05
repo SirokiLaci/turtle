@@ -11,5 +11,8 @@ def rajz(szogek_szama, szin):
         alex.forward(hossz)
         
 rajz(100, 'red')
+rajz(110, 'red')
 rajz(50, 'green')
+rajz(60, 'green')
 rajz(150, 'purple')
+rajz(160, 'purple')
